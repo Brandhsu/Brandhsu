@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Alt Text](https://media4.giphy.com/media/9EvzNG9HAVc64/giphy.gif)
+<p align="center">
+  <img src="https://media4.giphy.com/media/9EvzNG9HAVc64/giphy.gif" alt="AI"/>
+</p>
