@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center">
+Brandhsu 
+</h1>
 <p align="center">
   <img src="https://media4.giphy.com/media/9EvzNG9HAVc64/giphy.gif" alt="AI"/>
+</p>
+
+<p align="center">
+<img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Brandhsu&count_private=true&show_icons=true&icon_color=000000&hide_border=true&title_color=0fdbb4&text_color=555">
 </p>
