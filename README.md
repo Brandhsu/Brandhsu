@@ -20,5 +20,9 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Brandhsu.visitor-badge" alt="visitor badge" />
+</p>
+
+<p align="center">
 <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Brandhsu&count_private=true&show_icons=true&icon_color=000000&hide=stars&hide_border=true&title_color=0fdbb4&text_color=555">
 </p>
