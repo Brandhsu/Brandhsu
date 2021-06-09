@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Brandhsu.visitor-badge" alt="visitor badge" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Brandhsu.visitor-badge" alt="visitor badge" height="0" width="0"/>
 </p>
 
 <p align="center">
